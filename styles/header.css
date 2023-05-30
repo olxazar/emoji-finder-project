@@ -1,0 +1,40 @@
+.header {
+  height: 295px;
+  background: linear-gradient(92.33deg, #087990 0.12%, #055160 100%);
+  text-align: center;
+  padding: 68px 0 100px;
+  
+}
+.emoji__title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 87px;
+  color: #cff4fc;
+  margin-bottom: 4px;
+}
+.emoji__subtitle {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 36px;
+  color: #cff4fc;
+  margin-bottom: 68px;
+}
+.input {
+  width: 820px;
+  height: 64px;
+  background: #ffffff;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 21px;
+  color: #abb5be;
+  padding: 22px 30px;
+  margin-bottom: 48px;
+}
